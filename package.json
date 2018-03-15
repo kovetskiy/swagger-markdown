@@ -8,7 +8,7 @@
     "prepublish": "babel app --out-dir bin"
   },
   "bin": {
-    "swagger-markdown": "bin/index.js"
+    "swagger-markdown": "app/index.js"
   },
   "repository": {
     "type": "git",
