@@ -12,6 +12,8 @@ see [examples](https://github.com/syroegkin/swagger-markdown/tree/master/example
 
     npm install -g swagger-markdown
 
+    sudo npm install -g 'https://github.com/kovetskiy/swagger-markdown/tarball/master'
+
 ### Usage
 
 ```
